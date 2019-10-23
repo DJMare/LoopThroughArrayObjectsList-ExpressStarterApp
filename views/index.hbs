@@ -1,0 +1,22 @@
+<h1>{{title}}</h1>
+<p>Welcome to a list of {{title}}</p>
+<ul>
+  {{#each friends}}
+  <li>{{this.name}}</li>
+  {{/each}}
+</ul>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>City</th>
+        <th>State</th>
+   </tr>
+    {{#each friends}}
+    <tr>
+        <td>{{name}}</td>
+        <td>{{city}}</td>
+        <td>{{state}}</td>
+    </tr>
+    {{/each}}
+</table>

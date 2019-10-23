@@ -34,4 +34,5 @@ VS CODE
 
 WEB BROWSER
 
-(13) In your web browser, navigate to localserver:3000 to see changes: 
+(13) In your web browser, navigate to localserver:3000 to see changes: ![localhost3000 to see changes](https://user-images.githubusercontent.com/35668707/67441838-54131a80-f5b3-11e9-8b45-c979ae46a96c.JPG)
+

@@ -26,7 +26,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(11) Navigate to the routes/index.js file and add an array of users: 
+(11) Navigate to the routes/index.js file and add an array of users: ![add an array of objects to index js (loop_array_objects_list)](https://user-images.githubusercontent.com/35668707/67441729-d3ecb500-f5b2-11e9-8f56-c565f36dc995.JPG)
+
 
 (12) Navigate to the routes/index.hbs file and update to add a table for the array of users: 
 

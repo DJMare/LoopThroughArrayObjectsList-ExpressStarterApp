@@ -11,11 +11,11 @@ COMMAND PROMPT
 
 (4) Run the following command to install the Express generator globally onto your computer: npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_loop_array: express --view=hbs express_loop_array_objects_list
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_loop_array_objects_list: express --view=hbs express_loop_array_objects_list
 
-(6) Once the process is complete, navigate into the express_loop_array directory: cd express_loop_array_objects_list 
+(6) Once the process is complete, navigate into the express_loop_array_objects_list directory: cd express_loop_array_objects_list 
 
-(7) Now in the express_loop_array directory, run the following: npm install
+(7) Now in the express_loop_array_objects_list directory, run the following: npm install
 
 (8) Install Nodemon globally: npm install -g nodemon
 

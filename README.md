@@ -17,9 +17,13 @@ COMMAND PROMPT
 
 express --view=hbs express_loop_array_objects_list
 
-(6) Once the process is complete, navigate into the express_loop_array_objects_list directory: cd express_loop_array_objects_list 
+(6) Once the process is complete, navigate into the express_loop_array_objects_list directory: 
 
-(7) Now in the express_loop_array_objects_list directory, run the following: npm install
+cd express_loop_array_objects_list 
+
+(7) Now in the express_loop_array_objects_list directory, run the following: 
+
+npm install
 
 (8) Install Nodemon globally: npm install -g nodemon
 

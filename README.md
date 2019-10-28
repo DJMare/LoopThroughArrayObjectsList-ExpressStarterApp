@@ -9,7 +9,8 @@ COMMAND PROMPT
 
 (3) Navigate to the Express directory: cd Express
 
-(4) Run the following command to install the Express generator globally onto your computer: npm install express-generator -g
+(4) Run the following command to install the Express generator globally onto your computer: 
+    npm install express-generator -g
 
 (5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_loop_array_objects_list: express --view=hbs express_loop_array_objects_list
 

@@ -3,7 +3,9 @@ A simple express app that loops through an array of a list of objects and create
 
 COMMAND PROMPT
 
-(1) Run the following to navigate to your Desktop: cd Desktop
+(1) Run the following to navigate to your Desktop: 
+
+    cd Desktop
 
 (2) Create a new folder on desktop: mkdir Express
 

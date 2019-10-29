@@ -7,7 +7,9 @@ COMMAND PROMPT
 
     cd Desktop
 
-(2) Create a new folder on desktop: mkdir Express
+(2) Create a new folder on desktop: 
+
+    mkdir Express
 
 (3) Navigate to the Express directory: cd Express
 

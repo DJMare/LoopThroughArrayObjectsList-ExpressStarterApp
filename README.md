@@ -11,7 +11,9 @@ COMMAND PROMPT
 
     mkdir Express
 
-(3) Navigate to the Express directory: cd Express
+(3) Navigate to the Express directory: 
+
+    cd Express
 
 (4) Run the following command to install the Express generator globally onto your computer: 
     

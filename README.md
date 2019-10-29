@@ -31,7 +31,9 @@ COMMAND PROMPT
 
     npm install
 
-(8) Install Nodemon globally: npm install -g nodemon
+(8) Install Nodemon globally: 
+
+    npm install -g nodemon
 
 (9) Start the server with Nodemon with the following command: nodemon
 

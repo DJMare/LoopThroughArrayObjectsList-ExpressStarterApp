@@ -1,5 +1,5 @@
 # LoopThroughArrayObjectsList-ExpressStarterApp
-A simple express app that loops through an array of a list of objects and creates a table using the express starter app. 
+A express app that loops through an array of a list of objects and creates a table using the express starter app. 
 
 COMMAND PROMPT
 
